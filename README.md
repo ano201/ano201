@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ReactJs , NodeJs**
 
-- 👨‍💻 My portfolio Website [https://www.in-asad.com](https://www.in-asad.com)
+- 👨‍💻 My portfolio Website [https://murad201.netlify.app](https://murad201.netlify.app)
 
 - 📝 I regularly write articles on [blog.in-asad.com](blog.in-asad.com)
 
