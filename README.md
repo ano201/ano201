@@ -13,9 +13,10 @@
 
 - 👨‍💻 My portfolio Website [https://murad201.netlify.app](https://murad201.netlify.app)
 
-- 📝 I regularly write articles on [blog.in-asad.com](blog.in-asad.com)
 
-- 💬 Ask me about **HTML , CSS , Vanilla JavaScript**
+
+
+- 💬 Ask me about **HTML , CSS , Vanilla JavaScript and React Js (jsx)**
 
 - 📫 How to reach me **ahmu698@gmail.com**
 
