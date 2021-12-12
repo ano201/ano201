@@ -16,7 +16,7 @@
 
 
 
-- 💬 Ask me about **HTML , CSS , Vanilla JavaScript and React Js (jsx), Bootstrap, Material Ui (Mui)**
+- 💬 Ask me about **HTML , CSS , Vanilla JavaScript, React Js (jsx), Bootstrap and Material Ui (Mui)**
 
 - 📫 How to reach me **ahmu698@gmail.com**
 
