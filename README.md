@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ReactJs , NodeJs**
 
-- 👨‍💻 My portfolio Website [https://murad72342.web.app](https://murad201.netlify.app)
+- 👨‍💻 My portfolio Website [https://murad72342.web.app](https://murad72342.web.app)
 
 
 
