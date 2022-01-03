@@ -1,6 +1,9 @@
 <h1 align="center">Hi there👋, I'm Murad Hossain</h1>
 <h3 align="center">A passionate React developer from Bangladesh .</h3>
 
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{ano201}/count.svg" alt="Ano201 :: Visitor's Count" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ano201&label=Profile%20views&color=0e75b6&style=flat" alt="ano201" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ano201" alt="ano201" /></a> </p>
