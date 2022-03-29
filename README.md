@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **HTML , CSS , Vanilla JavaScript, React Js (jsx), Bootstrap and Material Ui (Mui)**
 
-- 📫 How to reach me **ahmu698@gmail.com**
+- 📫 How to reach me **ahmu698@gmail.com** / **muradhossain72342@gmail.com**
 
 - ⚡ Fun fact **I love cycling and travelling**
 
